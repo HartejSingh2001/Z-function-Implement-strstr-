@@ -9,4 +9,4 @@ public:
         return -1;   
     }
 };
-
+// if substring is not found then string::npos is returned.
